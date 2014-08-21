@@ -4,7 +4,7 @@ This is the Repo for Getting and Cleaning Data course project.
 
 This project aimed to clean a tidy data set for future analysis. 
 
-Once the source files are obtained and unzipped from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip, you will need to modify the file.
+Once the source files are obtained and unzipped from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip, you will need to modify the file. Please find more detail description in CodeBook.md.
 
 Project Summary
 Create a run_analysis.R script that: 
